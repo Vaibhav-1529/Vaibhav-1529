@@ -5,7 +5,7 @@
 - 📫 You can reach me through out my linkedin -: https://www.linkedin.com/in/vaibhav-saini-5a18a1257/.
 - 😄 he/him.
 - ⚡ I have solved 200+ DSA questions till now and I am trying to increase it.
-- - ⚡ I have also learn C Language,Python(Basics),HTML-CSS.
+- - ⚡ I have also learnt C Language,Python(Basics),HTML-CSS.
 
 
 <!---
